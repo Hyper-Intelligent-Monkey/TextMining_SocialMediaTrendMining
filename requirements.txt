@@ -1,0 +1,13 @@
+pandas
+nltk
+spacy
+snscrape
+scikit-learn
+texblob
+scikit-learn
+intertools
+numpy
+sentence-transformers
+matplotlib
+seaborn
+wordcloud
